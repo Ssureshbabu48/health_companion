@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2019-04-12T23:28:16Z",
+        "CreationDate": "2019-05-06T15:53:22Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.3.2"
+            "Version": "9.4.0"
         },
         "Part": "Single"
     },
@@ -13,12 +13,12 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "rpi_health"
+            "ProjectId": "health_companion"
         },
         "Owner": "Ssureshbabu48 Ssureshbabu48 <ssureshbabu48@gmail.com>",
         "Size": {
-            "X": 105.39,
-            "Y": 49.2
+            "X": 62.21,
+            "Y": 37.77
         }
     }
 }
